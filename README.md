@@ -8,6 +8,19 @@ This unique software was used to facilitate penetration operations for Arab hack
 
 This tool has been programmed by Yemeni hands
 
+# How to install :
+
+```
+$_ pkg install git
+$_ pkg install python 
+$_ https://github.com/mr-sami-x/Digital-Storm
+$_ cd Digital-Storm
+$_ chmod +x Digital-Storm
+$_ chmod +x ye.py
+$_ python ye.py
+```
+
+
 ### Video explanation of the tool
 <video src="https://github.com/mr-sami-x/Digital-Storm/blob/main/20220914_012058.mp4" data-canonical-src="https://github.com/mr-sami-x/Digital-Storm/blob/main/20220914_012058.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;">
 
